@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "工作相關",
+            "sites": [
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com",
+                    "icon": "🌐"
+                },
+                {
+                    "name": "Notion",
+                    "url": "https://www.notion.so",
+                    "icon": "📝"
+                }
+            ]
+        },
+        {
+            "name": "資訊網站",
+            "sites": [
+                {
+                    "name": "Hacker News",
+                    "url": "https://news.ycombinator.com",
+                    "icon": "🔥"
+                },
+                {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com",
+                    "icon": "📰"
+                }
+            ]
+        },
+        {
+            "name": "技術部落格",
+            "sites": [
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com",
+                    "icon": "✍️"
+                },
+                {
+                    "name": "Dev.to",
+                    "url": "https://dev.to",
+                    "icon": "💻"
+                }
+            ]
+        },
+        {
+            "name": "資料下載",
+            "sites": [
+                {
+                    "name": "期貨鉅額",
+                    "url": "https://www.taifex.com.tw/cht/3/dlProductOrderView"
+                },
+                {
+                    "name": "YouTube Learning",
+                    "url": "https://www.youtube.com/learning"
+                }
+            ]
+        }
+    ]
+}
