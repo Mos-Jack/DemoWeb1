@@ -1,0 +1,12 @@
+[
+    {
+        "name": "main",
+        "file": "/data/daily_table.csv",
+        "description": "最新情報"
+    },
+    {
+        "name": "main1",
+        "file": "/data/block_trade_summary.csv.gz",
+        "description": "Daily Table"
+    }
+]
